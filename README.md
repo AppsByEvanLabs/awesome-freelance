@@ -79,6 +79,7 @@ Working for yourself is hard enough. This list collects the genuinely useful —
 - [ClickUp](https://clickup.com) - Project management with invoicing add-ons.
 - [Linear](https://linear.app) - Issue tracking that doesn't suck.
 - [Notion](https://www.notion.so) - All-purpose workspace; client portals via shared pages.
+- [QuoteBoundary](https://quoteboundary.evanguy.chatgpt.site/?utm_source=github&utm_medium=readme&utm_campaign=owned_awesome_freelance&utm_content=project_client_management) - Free browser toolkit for freelancers to set rates, price projects, draft proposals, and document scope changes before extra work begins.
 - [Trello](https://trello.com) - Visual kanban for solo workflows.
 
 ## Accounting & Taxes
